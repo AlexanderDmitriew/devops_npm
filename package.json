@@ -1,0 +1,22 @@
+{
+  "name": "jquery",
+  "version": "1.0.0",
+  "description": "jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderDmitriew/devops_npm.git"
+  },
+  "author": "alexander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderDmitriew/devops_npm/issues"
+  },
+  "homepage": "https://github.com/AlexanderDmitriew/devops_npm#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
